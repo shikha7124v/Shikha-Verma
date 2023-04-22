@@ -6,7 +6,7 @@
 <!-- https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif -->
 
 <div align="center">
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-1081a16b7c.gif" alt="Shikha's Portfolio Demo" width="100%" />
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-c486ad7f4b.gif" alt="Shikha's Portfolio Demo" width="100%" />
   <br>
 </div>
 
