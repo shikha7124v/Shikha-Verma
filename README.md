@@ -2,7 +2,7 @@
 
 ## My Personal Portfolio  🚀
 
-## [Website Link](https://dopefolio.netlify.app) 🔗
+## [Website Link](https://shikha7124v.github.io/Shikha-Verma/) 🔗
 
 <div align="center">
   <img src="https://im5.ezgif.com/tmp/ezgif-5-c486ad7f4b.gif" alt="Shikha's Portfolio Demo" width="100%" />
@@ -36,10 +36,10 @@
 
 ## Test the template with different colors on the playground link 🚀
 
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
+## [Playground Link](https://shikha7124v.github.io/Shikha-Verma/) 🔗
 
 <div align="center">
-  <img src="./assets/png/hii.png" alt="Dopefolio Playground" width="100%" />
+  <img src="./assets/png/hii.png" alt="portfolio" width="100%" />
   <br>
 </div>
 
@@ -61,9 +61,6 @@
 <br/>
 ---
 
-<br>
-
----
 
 <br>
 
