@@ -1,9 +1,8 @@
 # Dopefolio 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
+## My Personal Portfolio  🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
-<!-- https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif -->
+## [Website Link](https://dopefolio.netlify.app) 🔗
 
 <div align="center">
   <img src="https://im5.ezgif.com/tmp/ezgif-5-c486ad7f4b.gif" alt="Shikha's Portfolio Demo" width="100%" />
@@ -17,51 +16,20 @@
 
 <br/>
 
-## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
-
-<br/>
 
 ----
 
 <br/>
-
-## Support
-
-I do need **support** from amazing people like you as I started posting on **[My Youtube channel](https://www.youtube.com/channel/UCIb8_J9lqtiWGMIOdQ5DVsg)** and want each one of you to checkout my latest Youtube Video which is regarding **Dopefolio** & subscribe to **[My Youtube channel](https://www.youtube.com/channel/UCIb8_J9lqtiWGMIOdQ5DVsg)**. Here's the video ⬇️
-
-<a href="https://www.youtube.com/watch?v=chUMwOSTezk">
-<div align="center">
-  <img src="https://i.postimg.cc/2yvpm3Qh/Open-source-portfolio-template-for-developers-dopefolio-thumbnail.png" alt="Dopefolio Demo" width="100%" />
-  <br>
-</div>
-</a>
-
-**Subscribing** to **[My Youtube channel](https://www.youtube.com/channel/UCIb8_J9lqtiWGMIOdQ5DVsg)** is the best way to support **Dopefolio** and the developer of **Dopefolio** and it will motivate me to bring more and more awesome content and projects for amazing people like you ❤️
-
-**Subscribing** to **[My Youtube channel](https://www.youtube.com/channel/UCIb8_J9lqtiWGMIOdQ5DVsg)** isn't going to change the world but it will change the world for me, so please do it 😇 and it will not cost you anything 😉
-
-<br/>
-
----
-
-<br/>
-
 ## Features
 
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
 - ### **Multi Page 💎** 
 - ### **Fully Responsive 🚀** 
+- ### **No Additional Frameworks 🤘** 
+- ### **No Additional Libraries 🙌** 
 - ### **Super Fast and Optimized for SEO ⚡** 
 - ### **Great Audits Score 🎖️** 
 
-<img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
+<img src="assets/pn" alt="Dopefolio Audits" width="100%" />
 
 <br/>
 <br/>
@@ -71,7 +39,7 @@ I do need **support** from amazing people like you as I started posting on **[My
 ## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
 
 <div align="center">
-  <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
+  <img src="file:///C:/Users/HP-PC/Downloads/hii.webp" alt="Dopefolio Playground" width="100%" />
   <br>
 </div>
 
