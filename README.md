@@ -39,7 +39,7 @@
 ## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
 
 <div align="center">
-  <img src="file:///C:/Users/HP-PC/Downloads/hii.webp" alt="Dopefolio Playground" width="100%" />
+  <img src="./assets/png/hii.png" alt="Dopefolio Playground" width="100%" />
   <br>
 </div>
 
