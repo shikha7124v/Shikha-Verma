@@ -3,9 +3,10 @@
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
+<!-- https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif -->
 
 <div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
+  <img src="https://www.kapwing.com/videos/64438511ec3c5a00117b2574" alt="Shikha's Portfolio Demo" width="100%" />
   <br>
 </div>
 
