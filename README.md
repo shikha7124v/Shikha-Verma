@@ -6,7 +6,7 @@
 <!-- https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif -->
 
 <div align="center">
-  <img src="https://www.kapwing.com/videos/64438511ec3c5a00117b2574" alt="Shikha's Portfolio Demo" width="100%" />
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-f4cb20a2c1.mp4" alt="Shikha's Portfolio Demo" width="100%" />
   <br>
 </div>
 
