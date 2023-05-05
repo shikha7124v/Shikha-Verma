@@ -5,7 +5,7 @@
 ## [Website Link](https://shikha7124v.github.io/Shikha-Verma/) 🔗
 
 <div align="center">
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-c486ad7f4b.gif" alt="Shikha's Portfolio Demo" width="100%" />
+  <img src=""C:\Users\HP-PC\Pictures\Screenshots\Screenshot 2023-05-05 183052.png"" alt="Shikha's Portfolio Demo" width="100%" />
   <br>
 </div>
 
